@@ -1,0 +1,8 @@
+{
+  "name": "Control de Ingresos - BREN",
+  "description": "Aplicación web para registrar, filtrar por fecha y sumar el total de ingresos recibidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
